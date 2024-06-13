@@ -4,8 +4,6 @@
     {
         static void Main(string[] args)
         {
-            static void Main(string[] args)
-            {
                 Calculator calculator = new Calculator();
 
                 Console.WriteLine("Basic Calculator");
